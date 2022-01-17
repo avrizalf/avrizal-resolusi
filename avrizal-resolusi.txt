@@ -1,0 +1,4 @@
+AVRIZAL RESOLUSI
+- Konsisten untuk mempelajari GIT & Github
+- Membuat repo pada Github
+- Meremote git
