@@ -3,3 +3,4 @@ AVRIZAL RESOLUSI
 - Membuat repo pada Github
 - Meremote git
 - Mempelajari GIT : BRANCH
+- Mempelajari GIT : FORK
