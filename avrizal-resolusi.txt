@@ -4,3 +4,4 @@ AVRIZAL RESOLUSI
 - Mempelajari GIT : BRANCH
 - Mempelajari GIT : FORK
 - Meremote GIT
+- Setting SSH Key
