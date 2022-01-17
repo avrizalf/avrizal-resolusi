@@ -2,4 +2,6 @@ AVRIZAL RESOLUSI
 - Konsisten untuk mempelajari GIT & Github
 - Membuat repo pada Github
 - Mempelajari GIT : BRANCH
+- Mempelajari GIT : FORK
+- Meremote GIT
 - Setting SSH Key
